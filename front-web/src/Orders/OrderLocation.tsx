@@ -45,9 +45,9 @@ function OrderLocation() {
         setAddress(place);
         //onChangeLocation({
           //latitude: place.position.lat,
-        //  longitude: place.position.lng,
-         // address: place.label!
-       // });
+          //longitude: place.position.lng,
+          //address: place.label!
+        //});
       };
 
       return (
@@ -60,7 +60,7 @@ function OrderLocation() {
                     <AsyncSelect
                         placeholder="Digite um endereço para entregar o pedido"
                         className="filter"
-                        //loadOptions={loadOptions}
+                        loadOptions={loadOptions}
                         onChange={value => handleChangeSelect(value as Place)}
                     />
                 </div>
