@@ -16,8 +16,6 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 - [**Postman**](https://www.postman.com/): uma ferramenta que tem como objetivo testar serviços RESTful (Web APIs) por meio do envio de requisições HTTP e da análise do seu retorno;
 
-  > A workspace do Postman com as requisições está disponível para download neste repositório. Baixe e importe o arquivo **`DSDeliver.postman_collection.json`** em seu Postman.
-
 - [**Postgresql 12**](https://www.postgresql.org/download/): um sistema gerenciador de banco de dados objeto relacional (SGBD), desenvolvido como projeto de código aberto;
 
 - [**pgAdmin**](https://www.pgadmin.org/): ferramenta para administração do Postgresql, permite fazer realizar as tarefas necessárias para administração do banco de dados;
